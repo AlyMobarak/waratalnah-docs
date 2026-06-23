@@ -1,3 +1,5 @@
+# Privacy Policy for Waratalnah
+
 Effective Date: 23rd of June, 2026
 
 1. Introduction
