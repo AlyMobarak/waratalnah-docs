@@ -26,14 +26,14 @@ We believe your focus should be on your learning, uninterrupted by surveillance.
 ## **4. Data Security**
 
 * **Local Data:** For offline users, your data's security is tied to your device. We rely on the Android operating system's built-in application sandboxing to keep your local database secure from other apps.
-* **Cloud Data:** For cloud sync users, your data is transmitted and stored securely utilizing industry-standard encryption provided by Google Firebase.
+* **Cloud Data:** For cloud sync users, your data is transmitted and stored securely utilizing industry-standard encryption.
 * **App Check:** We use Firebase App Check to ensure that traffic to our database comes only from our legitimate, unmodified application, protecting the integrity of the platform.
 
 ## **5. Data Retention and Deletion**
 You own your data.
 
 * If you are an offline user, simply uninstalling Waratalnah or clearing the app's storage in your Android settings will permanently delete your data.
-* If you use Cloud Sync and wish to have your account and all associated cloud data completely erased, you can request data deletion at any time by sending an email to our support team at the address provided below or by simply requesting Data Deletion from the settings.
+* If you use Cloud Sync and wish to have your account and all associated cloud data completely erased, you can request data deletion at any time by sending an email to our support team at the address provided below or by simply requesting Account Deletion from the app's settings. If you request an account deletion from the settings, all of your data and authentication information would be automatically wiped after 7 days of no activity. However, any publicly facing parts of your profile would be instantly hidden like our leaderboards to protect your privacy.
 
 ## **6. Children's Privacy**
 Waratalnah is an educational tool designed to be safe and beneficial for users of all ages.
