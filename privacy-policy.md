@@ -45,5 +45,4 @@ Waratalnah is an educational tool designed to be safe and beneficial for users o
 We may update this Privacy Policy as we add new features. If we change how we handle your data, we will update this policy and request any necessary permissions from you within the app before those features are activated.
 
 ## **8. Contact Us**
-If you have any questions, suggestions, or wish to request the deletion of your cloud data and converting back into a local-only account, please contact us at:
-**Email:** support.waratalnah@gmail.com
+If you have any questions, suggestions, or wish to request the deletion of your cloud data and converting back into a local-only account, please contact us at [support.waratalnah@gmail.com](mailto:support.waratalnah@gmail.com).
