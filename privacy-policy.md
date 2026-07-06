@@ -10,10 +10,10 @@ We believe you should have total control over your learning experience. Warataln
 
 * **Offline / Local Use (Default):** You can use Waratalnah entirely offline without creating an account. In this mode, we ask for a display name. **Absolute Transparency Guarantee:** This information, along with your test scores and progress, is stored strictly locally on your device's internal database. We do not transmit this data over the internet.
 * **Cloud Sync & Account Creation (Optional):** You may explicitly choose to enable cloud syncing so you do not lose your progress. If you opt-in, we use Firebase Authentication to secure your account. We will securely upload and sync only the critical data required to maintain your profile across devices. This includes your:
-* User ID and Display Name
-* Question and test progress
-* Experience points (XP) and Coins
-* Purchased items from the shop
+  * User ID and Display Name
+  * Question and test progress
+  * Experience points (XP) and Coins
+  * Purchased items from the shop
 
 
 
