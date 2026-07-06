@@ -33,7 +33,7 @@ We believe your focus should be on your learning, uninterrupted by surveillance.
 You own your data.
 
 * If you are an offline user, simply uninstalling Waratalnah or clearing the app's storage in your Android settings will permanently delete your data.
-* If you use Cloud Sync and wish to have your account and all associated cloud data completely erased, you can request data deletion at any time by sending an email to our support team at the address provided below.
+* If you use Cloud Sync and wish to have your account and all associated cloud data completely erased, you can request data deletion at any time by sending an email to our support team at the address provided below or by simply requesting Data Deletion from the settings.
 
 ## **6. Children's Privacy**
 Waratalnah is an educational tool designed to be safe and beneficial for users of all ages.
