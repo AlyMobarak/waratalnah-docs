@@ -4,7 +4,7 @@ We believe that you should always have total control over your personal data. If
 
 ### What Happens When You Delete Your Account?
 
-When you submit an account deletion request, the following actions are irreversible:
+When you submit an account deletion request, we retain your data for 7 days in case you login again to stop account deletion, then the following actions are irreversible:
 
 * **Authentication Removal:** Your login credentials (provided via Firebase Authentication) will be permanently revoked.
 * **Cloud Data Erasure:** All data synced to our secure cloud database will be permanently erased. This includes your User ID, Display Name, question and test progress, experience points (XP), Coins, and records of any items purchased from the motivational shop.
@@ -26,7 +26,7 @@ You can delete your account using either of the following methods:
 1. Open the Waratalnah app and navigate to the **Settings** menu.
 2. Scroll down to the **Account** section.
 3. Tap on **Delete Account**.
-4. You will be prompted to confirm your decision. Once confirmed, your cloud data will be immediately flagged for deletion.
+4. You will be prompted to confirm your decision. Once confirmed, your cloud data will be immediately flagged for deletion in 7 days.
 
 **Method 2: Via Email Support**
 If you no longer have the app installed or cannot access your account, you can request manual deletion:
