@@ -1,6 +1,6 @@
 # Privacy Policy for Waratalnah
 
-**Effective Date**: 23rd of June, 2026
+**Effective Date**: 23rd of June, 2026.
 
 ## 1. Introduction
 Aly Mobarak ("we," "us," or "our") built the Waratalnah app as a Free app. This Privacy Policy explains how we handle information when you use our application. By using Waratalnah, you agree to the practices described in this policy.
